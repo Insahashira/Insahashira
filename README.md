@@ -83,7 +83,8 @@ Privacy-conscious gesture recognition library for real-time hand tracking.
 - Structured development around spec-driven steering files for agentic workflows
 
 ## 📞 Contact
-📧 2k5mjlee@gmail.com
+📧 Email: 2k5mjlee@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/mjlee05/
 
 
