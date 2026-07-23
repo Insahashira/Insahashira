@@ -14,7 +14,7 @@ Interested in Systems and Security.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imigration_on_june)](https://solved.ac/imigration_on_june/)
 
 
-## Focus Areas
+## 🔎 Focus Areas
 - Computer Architecture  
 - Software Architecture 
 - Cyber Security (Especailly Systems)  
@@ -82,7 +82,7 @@ Privacy-conscious gesture recognition library for real-time hand tracking.
 - Architected a multi-component pipeline (TrackerConfig → HandTracker → MotionExtractor → GestureClassifier)
 - Structured development around spec-driven steering files for agentic workflows
 
-## 🌐 Contact
+## 📞 Contact
 📧 2k5mjlee@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/mjlee05/
 
