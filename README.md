@@ -76,12 +76,6 @@ Real-time, client-side hand rehabilitation game built for competitive developmen
 - Resolved jitter and scale variance through custom anchor logic
 - Drove a spec-driven workflow with a shared steering file across agents, delivering a working product in under 3 hours of a 5.5-hour competition
 
-### ✋ PinchPinch – Real-Time Gesture Recognition Library
-Privacy-conscious gesture recognition library for real-time hand tracking.
-- Designed and implemented a MediaPipe + OpenCV gesture recognition library with a privacy-conscious pipeline that discards raw frames after landmark extraction
-- Architected a multi-component pipeline (TrackerConfig → HandTracker → MotionExtractor → GestureClassifier)
-- Structured development around spec-driven steering files for agentic workflows
-
 ## 📞 Contact
 📧 Email: 2k5mjlee@gmail.com
 
